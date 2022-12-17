@@ -19,3 +19,5 @@ DELETE text.file in VS code just like delete file in windows. The operation is e
 try changing the contents of the website to post a new blog
 
 this way is not easy and it's not fit in.
+
+It takes about 3mintues to update new files. The website update.
